@@ -1,4 +1,5 @@
 🌳 Proyecto: Árboles de Decisión
+
 📌 Descripción
 
 En este proyecto se desarrolló un modelo basado en árboles de decisión, enfocado en la clasificación de datos a partir de diferentes variables de entrada. El objetivo principal es implementar un sistema capaz de analizar información y tomar decisiones de forma automática siguiendo una estructura lógica en forma de árbol.
@@ -30,11 +31,13 @@ data/ → Dataset utilizado
 notebooks/ o src/ → Código del modelo
 models/ → Modelo entrenado (si aplica)
 README.md → Documentación del proyecto
+
 🛠️ Tecnologías utilizadas
 Python
 Scikit-learn (o la librería que usaste)
 Pandas
 NumPy
+
 📌 Conclusión
 
 Este proyecto permitió aplicar de forma práctica el uso de árboles de decisión, comprendiendo cómo funcionan y cómo pueden implementarse para resolver problemas de clasificación de manera clara y estructurada.
